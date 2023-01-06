@@ -6,7 +6,7 @@ This dashboard illustrates the performance using Sales & Inventory data for a fi
 
 Utilizes the following functions:<br/>
 -Drop-down menus for interactivity<br/>
--Graphing to provide viusualizations<br/>
+-Graphing to provide visualizations<br/>
 -Practical and aesthetic use of color<br/>
 
 
